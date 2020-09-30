@@ -1,4 +1,4 @@
-# todoList-php
+# todoList-php (uploading to github from local machine)
 Practice PHP todo LIST
 
 To-do list application using PHP and MySQL database
